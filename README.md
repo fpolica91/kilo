@@ -3,8 +3,6 @@
 A simple, elegant terminal application with Anthropic Claude integration.
 
 ## Features
-
-- 80s Miami Vice inspired UI with neon colors
 - Basic Anthropic Claude API integration
 - Tool calling support (bash commands, time, etc.)
 - Built with Bubble Tea TUI framework
