@@ -195,8 +195,3 @@ func executeBash(ctx context.Context, input string) (string, error) {
 ```
 
 ## License
-
-MIT
-# kilo
-# kilo
-# kilo
