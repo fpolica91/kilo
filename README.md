@@ -112,7 +112,7 @@ kilo/
 │   │   ├── tools.go     # Tool executor and definitions
 │   │   └── example.go   # Usage examples
 │   ├── logo/
-│   │   └── logo.go      # 80s style logo rendering
+│   │   └── logo.go 
 │   └── tui/
 │       └── tui.go       # Terminal UI
 └── go.mod

@@ -6,7 +6,6 @@ import (
 	"github.com/charmbracelet/lipgloss"
 )
 
-// Render renders the KILO logo with 80s Miami Vice vibes
 func Render(width int) string {
 	// Simple ASCII art for KILO
 	logo := []string{
@@ -14,7 +13,6 @@ func Render(width int) string {
 		"█ █ █ █▄▄ ▀▄▀",
 	}
 
-	// 80s Miami Vice colors - hot pink and cyan
 	hotPink := lipgloss.Color("#FF10F0")
 	cyan := lipgloss.Color("#00FFFF")
 	purple := lipgloss.Color("#B026FF")

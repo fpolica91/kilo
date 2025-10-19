@@ -321,7 +321,6 @@ func (m model) renderMessages() string {
 
 	var output strings.Builder
 
-	// 80s Miami Vice colors
 	userStyle := lipgloss.NewStyle().
 		Foreground(lipgloss.Color("#00FFFF")).
 		Bold(true)
@@ -376,7 +375,6 @@ func (m model) View() string {
 		return "Initializing..."
 	}
 
-	// 80s Miami Vice colors
 	hotPink := lipgloss.Color("#FF10F0")
 	cyan := lipgloss.Color("#00FFFF")
 	purple := lipgloss.Color("#B026FF")
